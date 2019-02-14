@@ -1,0 +1,377 @@
+Файл:Wikitext-wiki markup-wikipedia.png — Википедия
+Файл:Wikitext-wiki markup-wikipedia.png
+Материал из Википедии — свободной энциклопедии
+Перейти к навигации
+Перейти к поиску
+Файл
+История файла
+Использование файла
+Глобальное использование файла
+Метаданные
+Размер при предпросмотре:
+800 × 537 пикселей
+.
+Другие разрешения:
+320 × 215 пикселей
+|
+640 × 429 пикселей
+|
+1015 × 681 пикселей
+.
+Исходный файл
+&#8206;
+(1015 × 681 пиксель, размер файла: 65 Кб, MIME-тип:
+image/png
+)
+Этот файл находится на Викискладе.
+Сведения о нём показаны ниже.
+Викисклад — централизованное хранилище для свободных файлов, используемых в проектах Викимедиа.
+Сообщить об ошибке с файлом
+Описание
+Wikitext-wiki markup-wikipedia.png
+English:
+A screenshot of Wikipedia's
+wiki markup
+article (slightly modified to show what
+wikitext
+essentially means) in edit/preview mode (using MediaWiki 1.16 with default Vector skin)
+Дата
+октябрь 2010
+Источник
+собственная работа
+(screenshot made by
+bdk
+)
+Автор
+(text: main parts written by
+Andrewa
+in November 2004, cf.
+history
+, adapted later by several other users)
+Права
+(
+Повторное использование этого файла
+)
+English:
+The text is licensed as GFDL/CC-by-sa-3.0, the few copyrightable MediaWiki interface parts as GPL.
+For Wikipedia content:
+Разрешается копировать, распространять и/или изменять этот документ в соответствии с условиями
+GNU Free Documentation License
+версии 1.2 или более поздней, опубликованной
+Фондом свободного программного обеспечения
+, без неизменяемых разделов, без текстов, помещаемых на первой и последней обложке. Копия лицензии включена в раздел, озаглавленный
+GNU Free Documentation License
+.
+http://www.gnu.org/copyleft/fdl.html
+GFDL
+GNU Free Documentation License
+true
+true
+Этот файл доступен по лицензии
+Creative Commons
+Attribution-Share Alike 3.0 Unported
+Вы можете свободно:
+делиться произведением
+– копировать, распространять и передавать данное произведение.
+создавать производные
+– переделывать данное произведение
+При соблюдении следующих условий:
+атрибуция
+– Вы должны указать авторство, предоставить ссылку на лицензию и указать, внёс ли автор какие-либо изменения. Это можно сделать любым разумным способом, но не создавая впечатление, что лицензиат поддерживает вас или использование вами данного произведения.
+распространение на тех же условиях
+– если вы изменяете, преобразуете или создаёте иное производное произведение на основании этого произведения, вы можете распространять полученное в результате произведение только на условиях такой же или совместимой лицензии.
+Этот признак лицензирования был добавлен к этому файлу как часть
+обновления лицензии
+GFDL.
+http://creativecommons.org/licenses/by-sa/3.0/
+CC-BY-SA-3.0
+Creative Commons Attribution-Share Alike 3.0
+true
+true
+For MediaWiki:
+Это произведение —
+свободное программное обеспечение
+; вы можете распространять и/или изменять его в соответствии с условиями
+GNU General Public License
+, опубликованной
+Free Software Foundation
+, версии 2 или более поздней.  Данное произведение распространяется в надежде на то, что оно будет полезным, но
+без какой-либо гарантии
+; в том числе, без подразумеваемых гарантий
+товарной пригодности
+или
+пригодности для конкретных целей
+. Подробнее см.
+версию 2
+и
+версию 3 условий GNU General Public License
+.
+http://www.gnu.org/licenses/gpl.html
+GPL
+GNU General Public License
+true
+true
+Другие версии
+Polish version at
+File:Edytujesz Wikitekst.png
+Это скриншот
+веб-страницы проекта
+Фонда Викимедиа
+. Тексты проектов Викимедиа (кроме Викиновостей) лицензированы на условиях
+Creative Commons Attribution Share-Alike 3.0
+, могут быть лицензированы на условиях
+GNU Free Documentation License
+(версий 1.2, 1.3 или любой более поздней версии, опубликованной Фондом свободного программного обеспечения; без неизменяемых разделов, без текстов, помещаемых на первой и последней обложке) и регулируются
+условиями использования
+. Само программное обеспечение
+MediaWiki
+лицензировано на условиях GNU General Public License.
+Любой другой медиа-контент, присутствующий на изображении, может распространяться на других условиях.
+Логотипы
+(если они присутствуют на этом скриншоте)
+Фонда Викимедиа защищены авторскими правами
+. Допускается их использование в материалах средств массовой информации и прессы, посвящённых Викимедии и её проектам, для любого другого использование необходимо разрешение (
+Подробная информация
+).
+Этот файл доступен по лицензии
+Creative Commons
+Attribution-Share Alike 3.0 Unported
+Вы можете свободно:
+делиться произведением
+– копировать, распространять и передавать данное произведение.
+создавать производные
+– переделывать данное произведение
+При соблюдении следующих условий:
+атрибуция
+– Вы должны указать авторство, предоставить ссылку на лицензию и указать, внёс ли автор какие-либо изменения. Это можно сделать любым разумным способом, но не создавая впечатление, что лицензиат поддерживает вас или использование вами данного произведения.
+распространение на тех же условиях
+– если вы изменяете, преобразуете или создаёте иное производное произведение на основании этого произведения, вы можете распространять полученное в результате произведение только на условиях такой же или совместимой лицензии.
+https://creativecommons.org/licenses/by-sa/3.0
+CC BY-SA 3.0
+Creative Commons Attribution-Share Alike 3.0
+true
+true
+Разрешается копировать, распространять и/или изменять этот документ в соответствии с условиями
+GNU Free Documentation License
+версии 1.2 или более поздней, опубликованной
+Фондом свободного программного обеспечения
+, без неизменяемых разделов, без текстов, помещаемых на первой и последней обложке. Копия лицензии включена в раздел, озаглавленный
+GNU Free Documentation License
+.
+http://www.gnu.org/copyleft/fdl.html
+GFDL
+GNU Free Documentation License
+true
+true
+This file is used in the documentation of the
+MediaWiki software
+.
+Please refrain from deleting it (and we developers MEAN it!) unless absolutely necessary to prevent MediaWiki documentation problems or missing images on third-party wikis utilizing MediaWiki.org documentation.
+It should only be deleted after finding (or
+uploading
+) a suitable replacement.  If the file does not qualify for Wikimedia Commons, but does qualify for MediaWiki.org, please upload it there first before deleting from Commons.
+This tag,
+&#123;&#123;
+MediaWiki documentation file
+&#125;&#125;
+, should be removed if this file is no longer actively being used in any MediaWiki documentation.
+English
+&#160;|
++/−
+&#160;
+История файла
+Нажмите на дату/время, чтобы посмотреть файл, который был загружен в тот момент.
+Дата/время
+Миниатюра
+Размеры
+Участник
+Примечание
+текущий
+20:05, 15 июля 2015
+1015 × 681
+(65 Кб)
+Cmdrjameson
+Compressed with pngout. Reduced by 25kB (28% decrease).
+13:52, 14 декабря 2010
+1015 × 681
+(91 Кб)
+Conny
+deleted categorys, because they are only in the source visible
+09:00, 7 октября 2010
+1015 × 736
+(76 Кб)
+Bdk
+update 2, but back to original preview layout screenshot
+22:53, 6 октября 2010
+1260 × 501
+(55 Кб)
+Totalaero
+major update
+03:13, 16 августа 2005
+1108 × 534
+(86 Кб)
+Bdk
+modified screenshot of en.wikipedia
+Wikitext
+article to show what &#039;&#039;wikitext&#039;&#039; essentially means. The text is under the GFDL, the interface under the GPL. *made by ~~~ August 2005 {{GFDL}}
+Category:Wikipedia
+Использование файла
+Следующие 3 страницы используют данный файл:
+Веб-интерфейс
+Вики
+Вики-разметка
+Глобальное использование файла
+Данный файл используется в следующих вики:
+Использование
+Wikitext-wiki markup-wikipedia.png
+в ar.wikipedia.org
+نص ويكي
+Использование
+Wikitext-wiki markup-wikipedia.png
+в bm.wikipedia.org
+Wiki
+Использование
+Wikitext-wiki markup-wikipedia.png
+в bxr.wikipedia.org
+Вики
+Использование
+Wikitext-wiki markup-wikipedia.png
+в ca.wikipedia.org
+Wikitext
+Использование
+Wikitext-wiki markup-wikipedia.png
+в cs.wikipedia.org
+Wikitext
+Использование
+Wikitext-wiki markup-wikipedia.png
+в cv.wikipedia.org
+Вики
+Использование
+Wikitext-wiki markup-wikipedia.png
+в de.wikipedia.org
+Wikitext
+Creole (Markup)
+Использование
+Wikitext-wiki markup-wikipedia.png
+в es.wikipedia.org
+Wikitexto
+Использование
+Wikitext-wiki markup-wikipedia.png
+в fi.wikipedia.org
+Wiki-merkintäkieli
+Использование
+Wikitext-wiki markup-wikipedia.png
+в he.wikipedia.org
+תחביר ויקי
+Использование
+Wikitext-wiki markup-wikipedia.png
+в hi.wikipedia.org
+विकि मार्कअप
+Использование
+Wikitext-wiki markup-wikipedia.png
+в kk.wikipedia.org
+Уики-мәтін
+Использование
+Wikitext-wiki markup-wikipedia.png
+в ko.wikipedia.org
+위키 마크업
+Использование
+Wikitext-wiki markup-wikipedia.png
+в ky.wikipedia.org
+Уики
+Использование
+Wikitext-wiki markup-wikipedia.png
+в www.mediawiki.org
+Manual:What is MediaWiki?/pt
+User:Pseudomoi~mediawikiwiki
+Manual:What is MediaWiki?
+Manual:What is MediaWiki?/cs
+Manual:What is MediaWiki?/ja
+Manual:What is MediaWiki?/fr
+Manual:What is MediaWiki?/it
+Manual:What is MediaWiki?/ko
+Manual:What is MediaWiki?/zh
+Manual:What is MediaWiki?/da
+Manual:What is MediaWiki?/pl
+Manual:What is MediaWiki?/ca
+Manual:What is MediaWiki?/yue
+Manual:What is MediaWiki?/ru
+Manual:What is MediaWiki?/id
+Manual:What is MediaWiki?/de
+Manual:What is MediaWiki?/pt-br
+Manual:What is MediaWiki?/en
+Manual:What is MediaWiki?/es
+Manual:What is MediaWiki?/bg
+Manual:What is MediaWiki?/ast
+Manual:What is MediaWiki?/uk
+Manual:What is MediaWiki?/ug
+Manual:What is MediaWiki?/el
+Manual:What is MediaWiki?/oc
+Manual:What is MediaWiki?/gl
+Manual:What is MediaWiki?/sco
+Manual:What is MediaWiki?/ps
+Manual:What is MediaWiki?/bn
+Manual:What is MediaWiki?/ar
+Manual:What is MediaWiki?/hi
+Manual:What is MediaWiki?/tr
+Manual:What is MediaWiki?/he
+Manual:What is MediaWiki?/ckb
+Manual:What is MediaWiki?/vi
+Просмотреть
+глобальное использование
+этого файла.
+Метаданные
+Файл содержит дополнительные данные, обычно добавляемые цифровыми камерами или сканерами. Если файл после создания редактировался, то некоторые параметры могут не соответствовать текущему изображению.
+Горизонтальное разрешение
+28,35 точек на сантиметр
+Вертикальное разрешение
+28,35 точек на сантиметр
+Дата и время изменения файла
+13:51, 14 декабря 2010
+Источник —
+https://ru.wikipedia.org/wiki/Файл:Wikitext-wiki_markup-wikipedia.png
+Навигация
+Персональные инструменты
+Вы не представились системе
+Обсуждение
+Вклад
+Создать учётную запись
+Войти
+Пространства имён
+Файл
+Обсуждение
+Варианты
+Просмотры
+Читать
+Посмотреть на Викискладе
+Создать локально
+Создать локально как код
+Ещё
+Поиск
+Навигация
+Заглавная страница
+Рубрикация
+Указатель А — Я
+Избранные статьи
+Случайная статья
+Текущие события
+Участие
+Сообщить об ошибке
+Сообщество
+Форум
+Свежие правки
+Новые страницы
+Справка
+Пожертвовать
+Инструменты
+Ссылки сюда
+Служебные страницы
+Сведения о странице
+На других языках
+Политика конфиденциальности
+Описание Википедии
+Отказ от ответственности
+Свяжитесь с нами
+Разработчики
+Соглашение о cookie
+Мобильная версия
